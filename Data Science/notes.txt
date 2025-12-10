@@ -1,0 +1,4 @@
+1. outliers- a variable that is can cause skewness in a dataset because it is out of the norm for the dataset
+2.skewness- a measure of data distribution 1.Positve(right) 2. Negative(left) 3. Zero(normal)
+IQR- interquartile range= Q3 -Q1  25%=Q1 50%=median and Q2 75%=Q3
+3. Correlation-relationship between 2 or more variables. positive-where both variables increase or decrease together negative-one variable that increases and the other decreases. +1 to -1
