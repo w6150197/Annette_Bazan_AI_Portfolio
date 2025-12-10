@@ -39,4 +39,4 @@ Notes, examples, and practice exercises
 
 Purpose
 
-The goal of this portfolio is to document my progress as I continue developing my skills in machine learning, AI development, and data-driven problem solving. It also serves as a foundation for future projects, research, and professional growth.
+The goal of this portfolio is to document my progress as I continue developing my skills in machine learning, AI development, and data-driven problem solving. It also serves as a foundation for future projects, research, and professional growth. (Deep Learning files were too big I had to put pull them)
